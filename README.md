@@ -1,5 +1,7 @@
-README.md — Sales Performance Dashboard (Power BI)
+Sales Performance Dashboard (Power BI)
+
 📊 Sales Performance Dashboard – Power BI
+
 Ce projet présente un tableau de bord interactif permettant d’analyser les performances commerciales par pays, produit, segment, et année.
 Il a été conçu avec Power BI, en utilisant un modèle en étoile et des mesures DAX professionnelles.
 
