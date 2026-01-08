@@ -54,19 +54,26 @@ Direction de filtre simple (single direction)
 
 
 🔹 Ventes par pays
+
 <img width="476" height="315" alt="Sum of sales by country" src="https://github.com/user-attachments/assets/31977db1-000c-41da-9fa4-5987f345feb1" />
 
 
 🔹 Ventes par produit
+
 <img width="455" height="317" alt="Sum of sales by product" src="https://github.com/user-attachments/assets/b99da54c-f4c8-41dd-834f-76d666d2f765" />
 
 
+
 🔹 Ventes par segment
+
 <img width="343" height="318" alt="Sum of sales by segment" src="https://github.com/user-attachments/assets/7837c878-f6f8-4c09-b857-3db93e5cf37a" />
 
 
+
 🔹 Slicers interactifs
+
 <img width="1266" height="161" alt="slicers" src="https://github.com/user-attachments/assets/9131654d-0ae9-4b90-bc19-9220ec2fef13" />
+
 
 
 📁 Fichiers du projet
